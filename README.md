@@ -1,4 +1,14 @@
 # prototipoflutter
+curriculum in the form of an application, with some examples of projects
+
+| Home | Curriculum | Home |
+|----------|----------|----------|
+| ![App Screenshot](screenshots/1.jpg) | ![App Screenshot](screenshots/2.jpg) | ![App Screenshot](screenshots/3.jpg) |
+
+| Contact | Projects |
+|----------|----------|
+| ![App Screenshot](screenshots/4.jpg) | ![App Screenshot](screenshots/5.jpg) |
+
 
 MIT License
 
